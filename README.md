@@ -27,6 +27,5 @@
 
 ## Connect
 
-- 🖼️ [breen.studio](https://breen.studio)
 - 🐦 [@jaspervanderee](https://x.com/jaspervanderee)
 - 🟣 [Nostr](https://primal.net/p/nprofile1qqsd28z66mq94zm34jhl4ggv83kdm5h700x5v3gttf5eupplphchk8c4va9eq)
