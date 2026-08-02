@@ -1,4 +1,4 @@
-# Hi, I'm Jasper
+# Jasper van de Ree
 
 Amsterdam | Graphic Designer | Bitcoin builder
 
